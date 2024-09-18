@@ -1,6 +1,6 @@
 # GO-TAMBOON ไปทำบุญ
 
-First Start 
+First Start
 $ go run cmd/go-tamboon.go data/fng.1000.csv.rot128
 
 Report
