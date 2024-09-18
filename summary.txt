@@ -1,0 +1,5 @@
+Total received: THB 26863951.03
+Successfully donated: THB 0.00
+Faulty donations: THB 26863951.03
+Average donation per person: THB 26863.95
+Top donors: None
